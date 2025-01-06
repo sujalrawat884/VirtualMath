@@ -20,7 +20,7 @@ The **Math Problem Solver** is a web-based application that allows users to capt
 ### Steps
 1. Clone the repository from GitHub:
     ```bash
-    git clone https://github.com/yourusername/math-problem-solver.git
+    git clone https://github.com/yourusername/VirtualMath.git
     cd math-problem-solver
     ```
 
@@ -70,11 +70,6 @@ The frontend is designed with HTML, CSS, and JavaScript:
 ---
 
 ## Screenshots
-
-### Interface Overview
-![Math Problem Solver Interface](Style/oie_cNdZ7k5409KR.png)
-
----
 
 ## Future Improvements
 - Add support for advanced math problems like calculus and differential equations.
