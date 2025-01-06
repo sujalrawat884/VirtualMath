@@ -23,7 +23,7 @@ Visit Us : https://sujalrawat884.pythonanywhere.com/
 1. Clone the repository from GitHub:
     ```bash
     git clone https://github.com/yourusername/VirtualMath.git
-    cd math-problem-solver
+    cd VirtualMath
     ```
 
 2. Install required Python packages:
@@ -32,7 +32,7 @@ Visit Us : https://sujalrawat884.pythonanywhere.com/
     ```
 
 3. Add your Google Generative AI API key:
-   - Replace the placeholder in `app.py`:
+   - Replace the placeholder in `Main.py`:
      ```python
      genai.configure(api_key="YOUR_API_KEY")
      ```
@@ -40,7 +40,7 @@ Visit Us : https://sujalrawat884.pythonanywhere.com/
 
 4. Run the Flask app:
     ```bash
-    python app.py
+    python Main.py
     ```
 
 5. Open the application in your browser at [http://127.0.0.1:5000](http://127.0.0.1:5000).
